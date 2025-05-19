@@ -1,11 +1,19 @@
-Autor y/o colaborador: Isaac Alejandro López Castrejón
+# 👨‍💻 Isaac Alejandro López Castrejón  
 
-Puesto: WEBMASTER/PROGRAMADOR SENIOR
+**Puesto:** Webmaster | Programador Senior  
 
-Objetivo: Mejorar mis habilidades adquiriendo nuevos conocimientos de diversas tecnologías o herramientas
+## 📌 Sobre mí  
+Apasionado por la tecnología y el desarrollo web, siempre en búsqueda de nuevos conocimientos para ampliar mis habilidades. Me especializo en la creación de soluciones eficientes y escalables, utilizando diversas tecnologías y herramientas.  
 
-Hobbies: Aprender siempre algo nuevo, acompañado de música que anime el alma 🙌🏻 😁 🎧 😆
+## 🎯 Objetivo  
+Potenciar mis capacidades técnicas y profesionales mediante el aprendizaje continuo, explorando nuevas tecnologías que me permitan desarrollar proyectos innovadores y optimizados.  
 
-Contacto: a.lopezc@hotmail.com
+## 🎧 Intereses  
+- Desarrollo y optimización web  
+- Investigación y aprendizaje constante  
+- Tecnología, programación y automatización  
+- Música que inspire creatividad y energía  
 
-IN: https://www.linkedin.com/in/isaac-alejandro-l%C3%B3pez-castrej%C3%B3n-a562a167/
+## 📩 Contacto  
+📧 Email: [a.lopezc@hotmail.com](mailto:a.lopezc@hotmail.com)  
+🔗 LinkedIn: [Isaac Alejandro López Castrejón](https://www.linkedin.com/in/isaac-alejandro-l%C3%B3pez-castrej%C3%B3n-a562a167/)  
