@@ -1,19 +1,49 @@
 # 👨‍💻 Isaac Alejandro López Castrejón  
 
-**Puesto:** Webmaster | Programador Senior  
+**Puesto:** Programador Senior | Arquitecto Técnico | Team Builder  
 
 ## 📌 Sobre mí  
-Apasionado por la tecnología y el desarrollo web, siempre en búsqueda de nuevos conocimientos para ampliar mis habilidades. Me especializo en la creación de soluciones eficientes y escalables, utilizando diversas tecnologías y herramientas.  
+Desarrollador senior con enfoque en **arquitectura técnica, modularidad y mantenibilidad**, especializado en crear sistemas escalables, reproducibles y fáciles de integrar. Me apasiona diseñar flujos de trabajo claros, optimizados y profesionales, así como establecer bases técnicas sólidas para equipos de desarrollo.
+
+Tengo experiencia liderando onboarding, definiendo estándares, mejorando entornos de trabajo y construyendo soluciones que priorizan la calidad, la seguridad y la eficiencia. Disfruto resolver problemas complejos y transformar código legado en plataformas modernas, limpias y sostenibles.
+
+## 🧩 Filosofía de trabajo  
+- Código modular, limpio y reutilizable  
+- Arquitecturas escalables y mantenibles  
+- Procesos reproducibles y entornos controlados  
+- Documentación clara y profesional  
+- Límites sanos, comunicación directa y decisiones técnicas justificadas  
+- Seguridad, buenas prácticas y protección de propiedad intelectual  
+
+## 🛠️ Tecnologías y enfoque  
+- PHP (Laravel, CodeIgniter 3), JavaScript moderno (ES6+), MySQL/MariaDB  
+- Diseño de servicios reutilizables, manejo de archivos, flujos CSD/Timbrado  
+- Optimización de entornos (Herd, Composer, Node, Git, SSH)  
+- Refactorización de proyectos legacy  
+- Automatización y mejora continua  
+
+## 🖥️ Infraestructura, servidores y DevOps  
+Experiencia en creación, mantenimiento y optimización de entornos productivos:
+
+- **Servidores LAMP y LEMP** (Apache, Nginx, PHP-FPM, MariaDB/MySQL)  
+- **Configuración avanzada de VirtualHosts** para múltiples dominios y subdominios  
+- **Certificados SSL/TLS** (Let's Encrypt, Auto-renew, Hardening)  
+- **Cloud & VPS**: DigitalOcean, AWS, Contabo, Linode  
+- **Seguridad y endurecimiento de servidores**  
+- **Optimización de rendimiento** (cachés, workers, FPM tuning, logs, monitoreo)  
+- **Automatización de despliegues** y flujos reproducibles  
+- **Gestión de DNS, firewalls y servicios críticos**  
+- **Migración de proyectos y entornos** sin downtime  
 
 ## 🎯 Objetivo  
-Potenciar mis capacidades técnicas y profesionales mediante el aprendizaje continuo, explorando nuevas tecnologías que me permitan desarrollar proyectos innovadores y optimizados.  
+Seguir fortaleciendo mis habilidades como arquitecto técnico y líder, creando soluciones robustas, escalables y bien diseñadas que aporten valor real a los equipos y a los proyectos.
 
 ## 🎧 Intereses  
-- Desarrollo y optimización web  
-- Investigación y aprendizaje constante  
-- Tecnología, programación y automatización  
-- Música que inspire creatividad y energía  
+- Desarrollo y optimización de sistemas  
+- Arquitectura de software y buenas prácticas  
+- Automatización, herramientas y flujos de trabajo eficientes  
+- Música que impulse la concentración y la creatividad  
 
 ## 📩 Contacto  
-📧 Email: [a.lopezc@hotmail.com](mailto:a.lopezc@hotmail.com)  
-🔗 LinkedIn: [Isaac Alejandro López Castrejón](https://www.linkedin.com/in/isaac-alejandro-l%C3%B3pez-castrej%C3%B3n-a562a167/)  
+📧 Email: **a.lopezc@hotmail.com**  
+📱 Teléfono: **5529541118**
